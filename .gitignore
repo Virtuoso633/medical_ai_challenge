@@ -18,8 +18,8 @@ models/*.pt
 *.mp4
 *.avi
 
-# Output files
-out/
+# Output files (keep PNGs for README screenshots)
+out/*.json
 results.json
 *_results.json
 

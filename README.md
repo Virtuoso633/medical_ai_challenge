@@ -138,8 +138,21 @@ Or use any echocardiogram video in AVI/MP4 format (A4C view recommended).
 
 ### Visualizations
 
-- `out/<video>_visualization.png` - Key frames with EF
-- `out/<video>_montage.png` - Frame montage
+- `out/<video>_visualization.png` - Key frames with EF prediction
+- `out/<video>_montage.png` - Frame montage across the video
+
+### Sample Output
+
+**Test Video**: [Apical 4 Chamber normal](https://www.youtube.com/watch?v=lpcJdTwmLRw) (17.5s, 439 frames)  
+**Predicted EF**: 64.1% (Normal)
+
+#### Visualization Output
+
+![EF Visualization](out/a4c_normal_visualization.png)
+
+#### Frame Montage
+
+![Frame Montage](out/a4c_normal_montage.png)
 
 ---
 
