@@ -1,0 +1,24 @@
+# Flask Web Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+werkzeug==3.0.1
+
+# Gradio UI
+gradio
+
+# PyTorch & Model
+torch>=2.2.0
+torchvision>=0.17.0
+torchxrayvision==1.2.1
+
+# Image Processing
+Pillow==10.1.0
+pydicom==2.4.4
+
+# Explainability (Grad-CAM)
+grad-cam
+
+# Data Processing
+numpy==1.26.2
+pandas==2.1.4
+matplotlib==3.8.2
