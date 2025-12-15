@@ -4,6 +4,12 @@ A Flask + Gradio web application for detecting pathologies in chest X-ray images
 
 ---
 
+## 🎬 Demo
+
+![Gradio Demo](demo.gif)
+
+---
+
 ## 🎯 Features
 
 ✅ **Core Requirements (per taskA.md):**
