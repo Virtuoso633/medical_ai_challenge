@@ -3,6 +3,10 @@
 
 This repository contains a professional-grade chest X-ray screening tool that combines local deep learning ensembles with Google's **CXR Foundation** model to achieve high-accuracy, zero-shot pathology prediction.
 
+
+## Gradio Dashboard
+<img width="2560" height="1351" alt="Screenshot 2025-12-30 at 6 31 58 AM" src="https://github.com/user-attachments/assets/d13e8fdd-5ac9-491b-816a-5c92839e7da7" />
+
 ## 📋 What it does
 
 The system predicts **18 common pathologies** (Atelectasis, Pneumonia, Cardiomegaly, etc.) from standard chest X-ray images (JPG, PNG, or DICOM).
